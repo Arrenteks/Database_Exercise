@@ -1,0 +1,8 @@
+
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(ÖÚØû
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(İşÏã
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(¬ÄüØ
+x
+java:S1488>"]Immediately return this expression instead of assigning it to the temporary variable "movie".(‚ò¥şÿÿÿÿ
+^
+java:S2095["HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÿ¯ú

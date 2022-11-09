@@ -1,0 +1,28 @@
+plugins{
+    id 'org.openjfx.javafxplugin'
+}
+
+application {
+    mainClass = "${group}.${project.name.toLowerCase()}.Main"
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': application.mainClassName
+        )
+    }
+}
+
+javafx{
+    version = '17'
+    modules = ['javafx.controls', 'javafx.graphics', 'javafx.base', 'javafx.fxml']
+}
+
+dependencies {
+    implementation "jakarta.ws.rs:jakarta.ws.rs-api:${restVersion}"
+    implementation "org.glassfish.jersey.core:jersey-client:${jerseyVersion}"
+    implementation "org.glassfish.jersey.inject:jersey-hk2:${jerseyVersion}"
+    implementation "org.glassfish.jaxb:jaxb-runtime:${jaxbVersion}"
+    implementation project(':Generated')
+}

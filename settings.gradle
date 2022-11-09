@@ -1,0 +1,8 @@
+rootProject.name = 'prog3_m29062'
+include 'Server'
+include 'Generated'
+include 'Client'
+include 'MasterClient'
+include 'MasterClient'
+findProject(':MasterClient')?.name = 'Masterclient'
+

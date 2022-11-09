@@ -1,0 +1,30 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+W
+java:S1126{"AReplace this if-then-else statement by a single return statement.(õÍñ¿
+f	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïßæ
+|
+java:S1488Q"aImmediately return this expression instead of assigning it to the temporary variable "resultSet".(ùÊã²úÿÿÿÿ
+|
+java:S1488W"aImmediately return this expression instead of assigning it to the temporary variable "resultSet".(»ˆÖîÿÿÿÿÿ
+w
+java:S1488]"aImmediately return this expression instead of assigning it to the temporary variable "resultSet".(øûş
+v
+java:S1488„"ZImmediately return this expression instead of assigning it to the temporary variable "id".(Âšœ˜úÿÿÿÿ
+b
+java:S2095P"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095\"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095-"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095l"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095x"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095b"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+c
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095V"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ

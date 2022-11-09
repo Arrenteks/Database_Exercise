@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie xmlns="http://www.medieninformatik.de/movie">
+    <id>9</id>
+    <movie_name>Lord of the Rings: The Fellowship of the Ring</movie_name>
+    <year>2001</year>
+    <genre>Fantasy</genre>
+    <regisseur>Peter Jackson</regisseur>
+    <appraial>8/10 - good</appraial>
+</movie>

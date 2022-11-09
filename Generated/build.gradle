@@ -1,0 +1,9 @@
+application {
+    mainModule = "${rootProject.name}.${project.name}.main"
+    mainClass  = "${group}.${project.name.toLowerCase()}.Main"
+}
+
+
+dependencies {
+    implementation "org.glassfish.jaxb:jaxb-runtime:${jaxbVersion}"
+}
